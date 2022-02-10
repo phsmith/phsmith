@@ -8,8 +8,8 @@ Lover of Technology, Coding and Gaming!!!
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-007ACD?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/phsmithcc/)](https://www.linkedin.com/in/phsmithcc/)
 
 ## ⚡ Github Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phsmith&layout=compact)](https://github.com/phsmith/github-readme-stats)
-[![phsmith GitHub stats](https://github-readme-stats.vercel.app/api?username=phsmith)](https://github.com/phsmith/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phsmith&layout=compact&theme=github_dark)](https://github.com/phsmith/github-readme-stats)
+[![phsmith GitHub stats](https://github-readme-stats.vercel.app/api?username=phsmith&theme=github_dark)](https://github.com/phsmith/github-readme-stats)
 
 ## :hammer_and_wrench: Languages and Tools:
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
