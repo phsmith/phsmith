@@ -1,4 +1,3 @@
-### Hi there 👋
 ## Hello, I'm Phillipe Smith!!
  
 Lover of Technology, Coding and Gaming!!!
